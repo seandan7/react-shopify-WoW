@@ -4,7 +4,7 @@ const path = require("path");
 
 module.exports = {
   entry: {
-    "bg-video": "./scripts/bg-video.js"
+    app: "./scripts/index.js"
   },
   module: {
     rules: [
